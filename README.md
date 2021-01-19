@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Caitlin 👋🏼
 
-A full-stack developer and occasional UX designer working at [Canstar](https://www.canstar.com.au). I'm a huge bookworm, incurable dabbler, part-time law student and 💜 adventure travel.
+A full-stack developer and occasional UX designer working at [intelliHR](https://intellihr.co). I'm a huge bookworm, incurable dabbler, part-time law student and 💜 adventure travel.
 
 🔭 **I’m currently working on:** #100DaysOfCode challenge (starting soon).<br>
 🌱 **I’m currently learning:** AWS and all things "Cloud".<br>
