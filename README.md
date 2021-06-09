@@ -13,14 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Caitlin (she/her) 👋🏼
+# Hi, I'm Caitlin 👋
 
-A full-stack developer and occasional UX designer working at [intelliHR](https://intellihr.co). I'm a huge bookworm, incurable dabbler and 💜 adventure travel.
+A full-stack developer and occasional UX designer working at [intelliHR](https://intellihr.co). I have also recently joined [She Codes Australia](https://shecodes.com.au/) as a Community Facilitator / Lead Mentor, helping to promote more diversity and inclusion in tech. Outside of work, I am a huge bookworm, incurable dabbler and 💜 adventure travel.
 
-🔭 **I’m currently working on:** Freelance app design project<br>
-🌱 **I’m currently learning:** AWS and all things "Cloud".<br>
+🔭 **I’m currently working on:** A freelance app design project<br>
+🌱 **I’m currently learning:** AWS and all things "Cloud"<br>
 💬 **Ask me about:** My experience doing a [coding bootcamp](https://coderacademy.edu.au/coding-courses/coding-bootcamps/fast-track) and starting a career in tech.<br>
-📫 **Get in touch with me**: [LinkedIn](https://www.linkedin.com/in/watsonbeaton/) 💼
+😄 **Pronouns:** She/Her <br>
+📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/watsonbeaton/) 💼
 
 ## My values
 
